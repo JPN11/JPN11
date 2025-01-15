@@ -1,7 +1,7 @@
 
 # Hi there, I'm JPN11! 👋
 
-## I am ajunior developer...
+## I am a junior developer...
 
 - 💻 Experimenting with new languages
 - 📚 Always eager to learn new technologies and improve my skills.
