@@ -23,10 +23,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPN11&layout=compact&theme=radical)
 
-## Fun Fact
 
-- 🎸 I enjoy [your hobby or interest] in my free time!
-
----
-
-Looking forward to connecting and collaborating with you!
