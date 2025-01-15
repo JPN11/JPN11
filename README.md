@@ -1,9 +1,32 @@
-## Hi there 👋, I'm JPN11
 
-- 🔭 I’m currently working on a large scale simple game website
-- 🌱 I’m currently learning how to use Unity Game Engine
-- 💬 Ask me about C/C++
-- 📫 How to reach me: CWHQ Forum
-- 😄 Pronouns: He/Him
-- I am fluent in some languages, while learning others
-- I am taking Harvard University's CS50 computer science course
+# Hi there, I'm JPN11! 👋
+
+## About Me
+
+- 💻 Experimenting with new languages
+- 📚 Always eager to learn new technologies and improve my skills.
+- 🌱 Currently exploring **Web Applications and APIs**.
+- 🤝 Open to collaborating on interesting projects and ideas.
+- 👨‍💻 Learning some languages, and more fluent in others
+
+## Skills
+
+- **Languages**: [Python, JavaScript, C,]
+- **Frameworks and Libraries**: [Flask, Django]
+
+
+## GitHub Stats
+
+![JPN11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPN11&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPN11&layout=compact&theme=radical)
+
+## Fun Fact
+
+- 🎸 I enjoy [your hobby or interest] in my free time!
+
+---
+
+Looking forward to connecting and collaborating with you!
