@@ -1,7 +1,7 @@
 
 # Hi there, I'm JPN11! 👋
 
-## About Me
+## I am ajunior developer...
 
 - 💻 Experimenting with new languages
 - 📚 Always eager to learn new technologies and improve my skills.
@@ -22,5 +22,6 @@
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPN11&layout=compact&theme=radical)
+(This is inaccurate, as I have a lot of private repos, more than public)
 
 
