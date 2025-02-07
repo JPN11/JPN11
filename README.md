@@ -11,8 +11,8 @@
 
 ## Skills
 
-- **Languages**: [Python, JavaScript, C,]
-- **Frameworks and Libraries**: [Flask, Django]
+- **Languages**: Python, JavaScript, C,
+- **Frameworks and Libraries**: Flask, Django
 
 
 ## GitHub Stats
