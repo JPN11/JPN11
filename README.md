@@ -12,7 +12,7 @@
 ## Skills
 
 - **Languages**: Python, JavaScript, C,
-- **Frameworks and Libraries**: Flask, Django, Bootstrap
+- **Frameworks and Libraries**: Flask, Django, Bootstrap, Jinja
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JPN11)
