@@ -30,6 +30,7 @@
 ## GitHub Stats
 
 ![JPN11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPN11&show_icons=true&theme=radical)
+![JPN11's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JPN11&theme=radical)
 
 ## Top Languages
 
