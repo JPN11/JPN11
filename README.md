@@ -34,5 +34,5 @@
 
 ## Top Languages
 
-![Top Languages]((https://github-readme-stats.vercel.app/api/top-langs/?username=jpn11&theme=radical))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpn11&theme=radical)
 
