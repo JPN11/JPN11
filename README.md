@@ -34,7 +34,5 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPN11&layout=compact&theme=radical)
-(This is inaccurate, as I have a lot of private repos, more than public)
-
+![Top Languages]((https://github-readme-stats.vercel.app/api/top-langs/?username=jpn11&theme=radical))
 
