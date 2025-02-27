@@ -36,3 +36,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpn11&theme=radical)
 
+### In my free time, I like to...
+- 📖 Read
+- ✍️ Write
+- 🚲 Bike
+- 🏀 Play Basketball
+
