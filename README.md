@@ -5,7 +5,7 @@
 
 - 💻 Experimenting with new languages
 - 📚 Always eager to learn new technologies and improve my skills.
-- 🌱 Currently exploring **Web Applications and APIs**.
+- 🌱 Currently exploring **AI**.
 - 🤝 Open to collaborating on interesting projects and ideas.
 - 👨‍💻 Learning some languages, and more fluent in others
 
