@@ -3,11 +3,12 @@
 
 ## I am a junior developer...
 
-- 💻 Experimenting with new languages
+- 💻 Experimenting with JavaScript and TypeScript
 - 📚 Always eager to learn new technologies and improve my skills.
 - 🌱 Currently exploring **AI**.
+- ⌨️ Learning React, Next.js, and how to host with Vercel
 - 🤝 Open to collaborating on interesting projects and ideas.
-- 👨‍💻 Learning some languages, and more fluent in others
+
 
 ## Skills:
 
@@ -22,6 +23,10 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JPN11)
