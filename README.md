@@ -46,4 +46,5 @@
 - ✍️ Write
 - 🚲 Bike
 - 🏀 Play Basketball
-
+### Fun Fact
+I took Harvard's CS50
